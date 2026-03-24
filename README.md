@@ -168,7 +168,7 @@ Kocaeli Üniversitesi **Bilgisayar Mühendisliği** mezunuyum. Ham veriyi akıll
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
 
-  **💬 Yapay zeka, veri bilimi veya yazılım üzerine konuşmak ister misiniz?**
+  **💬 Yapay zeka, veri bilimi veya yazılım üzerine ulaşmak ister misiniz?**
 
   <br/>
 
