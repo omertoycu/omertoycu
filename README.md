@@ -36,16 +36,4 @@ Aşağıda farklı disiplinlerde (Yapay Zeka, Sistem, Web) geliştirdiğim proje
 | 🏥 **[HastaneAi / YZTA](https://github.com/omertoycu/HastaneAi)** | `Python` `Data Science` | Sağlık verileri üzerinden tahminlemeler yapan ve hastane süreçlerini optimize etmeyi hedefleyen zeka tabanlı sistemler. |
 
 ---
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omertoycu&show_icons=true&theme=transparent&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omertoycu&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&hide_border=true" width="38%" />
-</p>
-
----
-
-<div align="center">
-  <i>"Karmaşık problemleri, temiz kodla çözmeyi severim."</i>
 </div>
