@@ -23,7 +23,9 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=omertoycu&style=for-the-badge&color=161B22&label=PROFILE+VIEWS&labelColor=0D1117" />
+  <!-- ✅ UNIQUE VISITOR COUNTER — seni saymaz, sadece başkalarını sayar -->
+  <!-- Bu badge'i kullanabilmek için aşağıdaki KURULUM adımlarını takip et -->
+  <img src="https://raw.githubusercontent.com/omertoycu/omertoycu/master/svg/profile/badge.svg" alt="Views" />
 
 </div>
 
@@ -65,35 +67,36 @@ Kocaeli Üniversitesi **Bilgisayar Mühendisliği** mezunuyum. Ham veriyi akıll
 <br/>
 
 <!-- ═══════════════════════════════════════════ -->
-<!-- ÖNE ÇIKAN YAPAY ZEKA PROJELERİM -->
+<!-- 🧠 TÜM YAPAY ZEKA PROJELERİM -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 🧠 &nbsp;Öne Çıkan Yapay Zeka Projelerim
-
-<div align="center">
+## 🧠 &nbsp;Yapay Zeka Projelerim
 
 <!-- ROW 1 -->
+<div align="center">
 <a href="https://github.com/omertoycu/WebHaberTakip">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omertoycu&repo=WebHaberTakip&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/omertoycu/image-captioning-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omertoycu&repo=image-captioning-project&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 </a>
+</div>
 
-<br/><br/>
+<br/>
 
 <!-- ROW 2 -->
+<div align="center">
 <a href="https://github.com/omertoycu/IMDBCommentAnalyze">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omertoycu&repo=IMDBCommentAnalyze&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/omertoycu/HastaneAi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omertoycu&repo=HastaneAi&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 </a>
-
 </div>
 
 <br/>
 
+<!-- DETAY TABLOSU -->
 <details>
 <summary>&nbsp;<b>📋 Proje Detayları (Genişletmek İçin Tıkla)</b></summary>
 
@@ -125,7 +128,7 @@ Kocaeli Üniversitesi **Bilgisayar Mühendisliği** mezunuyum. Ham veriyi akıll
       <td align="center">🎬</td>
       <td><a href="https://github.com/omertoycu/IMDBCommentAnalyze"><b>IMDBCommentAnalyze</b></a></td>
       <td><code>ML</code> <code>NLP</code> <code>Jupyter</code></td>
-      <td>IMDB film yorumlarının <b>duygu analizini</b> (Positive/Negative) tahmin eden, interaktif arayüze sahip makine öğrenmesi projesi.</td>
+      <td>IMDB film yorumlarının <b>duygu analizini</b> (Positive / Negative) tahmin eden, interaktif arayüze sahip makine öğrenmesi projesi.</td>
     </tr>
     <tr>
       <td align="center">🏥</td>
@@ -141,40 +144,18 @@ Kocaeli Üniversitesi **Bilgisayar Mühendisliği** mezunuyum. Ham veriyi akıll
 <br/>
 
 <!-- ═══════════════════════════════════════════ -->
-<!-- DİĞER PROJELER -->
+<!-- 📂 DİĞER PROJELER -->
 <!-- ═══════════════════════════════════════════ -->
 
 ## 📂 &nbsp;Diğer Projeler
 
 <div align="center">
-
 <a href="https://github.com/omertoycu/AracKontrolSistemi">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omertoycu&repo=AracKontrolSistemi&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/omertoycu/CargoSystem">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=omertoycu&repo=CargoSystem&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
 </a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub İstatistiklerim
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omertoycu&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&hide_border=false&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omertoycu&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=8B949E&hide_border=false&langs_count=8" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omertoycu&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="53%" />
-
 </div>
 
 <br/>
