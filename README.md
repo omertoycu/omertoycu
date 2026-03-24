@@ -1,39 +1,54 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZndibmtueXo0eHByeGZueXF4eHByeGZueXF4eHByeGZueXF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw60YIVoq09zONd4F7/giphy.gif" width="35"> Merhaba, Ben Ömer Toycu
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/%C3%B6mer-toycu-251bb3293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:omerfaruktoycu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-### 🧠 AI Engineer & Software Developer
-Kocaeli Üniversitesi Bilgisayar Mühendisliği altyapımla; ham veriyi akıllı içgörülere dönüştüren **yapay zeka modelleri** ve bu modelleri gerçek dünya senaryolarında uçtan uca çalıştıran **ölçeklenebilir yazılım mimarileri** inşa ediyorum. Amacım, karmaşık problemleri veriye dayalı algoritmalar ve temiz kod prensipleriyle çözmek.
-
-- 🤖 **Yapay Zeka & Veri Bilimi:** Doğal Dil İşleme (NLP), Bilgisayarlı Görü (Image Captioning) ve Derin Öğrenme (Deep Learning) alanlarında yüksek doğruluklu modeller tasarlıyor, eğitiyor ve optimize ediyorum.
-- ⚙️ **Akıllı Sistem Entegrasyonları:** Geliştirdiğim AI modellerini üretim ortamına (production) taşımak için yüksek performanslı asenkron API'ler (FastAPI), sağlam veri hatları (data pipelines) ve C/C++ ile düşük seviyeli otonom yapılar kuruyorum.
-- 🚀 **Güncel Odak Noktam:** Büyük Dil Modelleri (LLM), semantik vektör aramaları, modern veri madenciliği ve geleceğin otonom sistemlerini tasarlamak.
----
-
-### 🛠️ Teknoloji Yığınım (Tech Stack)
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,fastapi,mongodb,jupyter,git,postman" />
+
+  <!-- HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Ömer%20Toycu&fontSize=52&fontColor=58A6FF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Developer&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%" />
+
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%A7%A0+Transforming+Raw+Data+into+Intelligent+Systems;%F0%9F%9A%80+Building+Scalable+AI-Powered+Architectures;%F0%9F%94%AC+NLP+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- SOCIAL BADGES -->
+  <a href="https://www.linkedin.com/in/%C3%B6mer-toycu-251bb3293/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:omerfaruktoycu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/omertoycu">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <!-- PROFILE VIEWS -->
+  <img src="https://komarev.com/ghpvc/?username=omertoycu&style=for-the-badge&color=161B22&label=PROFILE+VIEWS&labelColor=0D1117" />
+
 </div>
 
----
+<br/>
 
-### 🏆 Öne Çıkan Projeler (Highlight Projects)
+<!-- ABOUT SECTION -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-Aşağıda farklı disiplinlerde (Yapay Zeka, Sistem, Web) geliştirdiğim projelerden bazılarını görebilirsiniz:
+```yaml
+name: Ömer Toycu
+located_in: Kocaeli, Türkiye
+education: B.Sc. Computer Engineering — Kocaeli University
 
-| Proje | Teknolojiler | Açıklama |
-| :--- | :--- | :--- |
-| 🛰️ **[WebHaberTakip](https://github.com/omertoycu/WebHaberTakip)** | `Python` `FastAPI` `NLP` | Kentsel olayları web scraping ile toplayan, BERT tabanlı embedding modelleriyle sınıflandıran ve harita üzerinde görselleştiren uçtan uca sistem. |
-| 🎬 **[IMDBCommentAnalyze](https://github.com/omertoycu/IMDBCommentAnalyze)** | `Jupyter` `Machine Learning` | IMDB film incelemelerinin duygu analizini (Positive/Negative) tahmin eden, interaktif arayüze sahip yapay zeka projesi. |
-| 🖼️ **[Image Captioning](https://github.com/omertoycu/image-captioning-project)** | `Jupyter` `Deep Learning` | Bilgisayarlı görü (Computer Vision) ve doğal dil işlemeyi birleştirerek görselleri analiz eden ve metinsel açıklamalar üreten model. |
-| 🚗 **[AracKontrolSistemi](https://github.com/omertoycu/AracKontrolSistemi)** | `C++` | Nesne yönelimli programlama (OOP) prensipleri kullanılarak geliştirilmiş, düşük seviyeli araç kontrol ve yönetim algoritması. |
-| 📦 **[CargoSystem](https://github.com/omertoycu/CargoSystem)** | `JavaScript` | Kargo takip ve operasyonel süreçleri yönetmek için tasarlanmış web tabanlı yönetim sistemi. |
-| 🏥 **[HastaneAi / YZTA](https://github.com/omertoycu/HastaneAi)** | `Python` `Data Science` | Sağlık verileri üzerinden tahminlemeler yapan ve hastane süreçlerini optimize etmeyi hedefleyen zeka tabanlı sistemler. |
+current_focus:
+  - Large Language Models (LLM) & Retrieval-Augmented Generation
+  - Semantic Vector Search & Embedding Architectures
+  - Autonomous System Design & Real-Time AI Pipelines
 
----
-</div>
+fields_of_interest:
+  - Natural Language Processing (NLP)
+  - Computer Vision & Image Captioning
+  - Deep Learning Model Optimization
+  - Scalable API Design & Data Engineering
+
+philosophy: >
+  "Turning complex problems into elegant solutions
+   through data-driven algorithms and clean code."
