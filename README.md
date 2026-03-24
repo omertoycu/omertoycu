@@ -1,62 +1,41 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZndibmtueXo0eHByeGZueXF4eHByeGZueXF4eHByeGZueXF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw60YIVoq09zONd4F7/giphy.gif" width="35"> Merhaba, Ben Ömer Toycu
 
 <p align="left">
-  <a href="https://linkedin.com/in/senin-linkedin-uzantin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:senin.emailin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%C3%B6mer-toycu-251bb3293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:omerfaruktoycu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 Backend & NLP Engineer
-**Kocaeli Üniversitesi Bilgisayar Mühendisliği** öğrencisi olarak, büyük ölçekli verileri anlamlı hale getiren arka uç mimarileri ve yapay zeka çözümleri üzerine uzmanlaşıyorum. Karmaşık problemleri asenkron yapılar ve modern NLP teknikleriyle çözmeyi seviyorum.
+### 💻 Yazılım Mühendisi & Yapay Zeka Geliştiricisi
+**Kocaeli Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim. Düşük seviyeli sistem mimarilerinden (C/C++) modern web backendlerine (FastAPI) ve derin öğrenme (Deep Learning) modellerine kadar geniş bir yelpazede, gerçek dünya problemlerini çözen teknolojiler inşa ediyorum.
 
-- 🔭 **Şu Anda:** [Kocaeli Haber Haritası](https://github.com/omertoycu/WebHaberTakip) projesi üzerinde asenkron scraping ve BERT tabanlı sınıflandırma geliştiriyorum.
-- ⚡ **Odak Noktam:** Yüksek performanslı API'ler, Veri Madenciliği ve Semantik Arama.
-- 📚 **Sürekli Öğrenme:** Derin Öğrenme mimarileri ve Bulut tabanlı mikroservisler.
-
----
-
-### 🚀 Teknik Yetkinlikler (Tech Stack)
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br />FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br />JS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br />Postman
-    </td>
-  </tr>
-</table>
+- 🧠 **Yapay Zeka & Veri:** Makine Öğrenmesi (ML), Derin Öğrenme, Görüntü İşleme (Image Captioning) ve NLP tabanlı duygu analizi projeleri geliştiriyorum.
+- ⚙️ **Backend & Sistem:** Yüksek performanslı asenkron API'ler tasarlıyor, veri madenciliği yapıyor ve OOP prensipleriyle sistem programlıyorum.
+- 🚀 **Şu anki Odak:** NLP tabanlı akıllı veri analizi sistemleri ve modern otonom yapılar üzerine çalışıyorum.
 
 ---
 
-### 🏆 Öne Çıkan Projeler
+### 🛠️ Teknoloji Yığınım (Tech Stack)
 
-#### 🛰️ WebHaberTakip: NLP & Geocoding Tabanlı İzleme Sistemi
-> Kentsel olayları web scraping ile toplayan, BERT tabanlı embedding modelleriyle mükerrer kayıtları engelleyen ve olayları harita üzerinde görselleştiren uçtan uca sistem.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,fastapi,mongodb,jupyter,git,postman" />
+</div>
 
-- **Teknolojiler:** Python, FastAPI, MongoDB (Motor), Sentence-Transformers, Google Maps API.
-- **Zorluk Seviyesi:** Yüksek (Asenkron Pipeline, Metin Sınıflandırma).
-- [⚙️ Kaynak Kodu İncele](https://github.com/omertoycu/WebHaberTakip)
+---
+
+### 🏆 Öne Çıkan Projeler (Highlight Projects)
+
+Aşağıda farklı disiplinlerde (Yapay Zeka, Sistem, Web) geliştirdiğim projelerden bazılarını görebilirsiniz:
+
+| Proje | Teknolojiler | Açıklama |
+| :--- | :--- | :--- |
+| 🛰️ **[WebHaberTakip](https://github.com/omertoycu/WebHaberTakip)** | `Python` `FastAPI` `NLP` | Kentsel olayları web scraping ile toplayan, BERT tabanlı embedding modelleriyle sınıflandıran ve harita üzerinde görselleştiren uçtan uca sistem. |
+| 🎬 **[IMDBCommentAnalyze](https://github.com/omertoycu/IMDBCommentAnalyze)** | `Jupyter` `Machine Learning` | IMDB film incelemelerinin duygu analizini (Positive/Negative) tahmin eden, interaktif arayüze sahip yapay zeka projesi. |
+| 🖼️ **[Image Captioning](https://github.com/omertoycu/image-captioning-project)** | `Jupyter` `Deep Learning` | Bilgisayarlı görü (Computer Vision) ve doğal dil işlemeyi birleştirerek görselleri analiz eden ve metinsel açıklamalar üreten model. |
+| 🚗 **[AracKontrolSistemi](https://github.com/omertoycu/AracKontrolSistemi)** | `C++` | Nesne yönelimli programlama (OOP) prensipleri kullanılarak geliştirilmiş, düşük seviyeli araç kontrol ve yönetim algoritması. |
+| 📦 **[CargoSystem](https://github.com/omertoycu/CargoSystem)** | `JavaScript` | Kargo takip ve operasyonel süreçleri yönetmek için tasarlanmış web tabanlı yönetim sistemi. |
+| 🏥 **[HastaneAi / YZTA](https://github.com/omertoycu/HastaneAi)** | `Python` `Data Science` | Sağlık verileri üzerinden tahminlemeler yapan ve hastane süreçlerini optimize etmeyi hedefleyen zeka tabanlı sistemler. |
 
 ---
 
@@ -67,12 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omertoycu&layout=compact&theme=transparent&title_color=3b82f6&text_color=ffffff&hide_border=true" width="38%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omertoycu&theme=transparent&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="87%" />
-</p>
-
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"Karmaşık problemleri, temiz kodla çözmeyi severim."</i>
 </div>
