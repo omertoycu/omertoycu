@@ -6,14 +6,12 @@
 </p>
 
 ---
+### 🧠 AI Engineer & Software Developer
+Kocaeli Üniversitesi Bilgisayar Mühendisliği altyapımla; ham veriyi akıllı içgörülere dönüştüren **yapay zeka modelleri** ve bu modelleri gerçek dünya senaryolarında uçtan uca çalıştıran **ölçeklenebilir yazılım mimarileri** inşa ediyorum. Amacım, karmaşık problemleri veriye dayalı algoritmalar ve temiz kod prensipleriyle çözmek.
 
-### 💻 Yazılım Mühendisi & Yapay Zeka Geliştiricisi
-**Kocaeli Üniversitesi Bilgisayar Mühendisliği** öğrencisiyim. Düşük seviyeli sistem mimarilerinden (C/C++) modern web backendlerine (FastAPI) ve derin öğrenme (Deep Learning) modellerine kadar geniş bir yelpazede, gerçek dünya problemlerini çözen teknolojiler inşa ediyorum.
-
-- 🧠 **Yapay Zeka & Veri:** Makine Öğrenmesi (ML), Derin Öğrenme, Görüntü İşleme (Image Captioning) ve NLP tabanlı duygu analizi projeleri geliştiriyorum.
-- ⚙️ **Backend & Sistem:** Yüksek performanslı asenkron API'ler tasarlıyor, veri madenciliği yapıyor ve OOP prensipleriyle sistem programlıyorum.
-- 🚀 **Şu anki Odak:** NLP tabanlı akıllı veri analizi sistemleri ve modern otonom yapılar üzerine çalışıyorum.
-
+- 🤖 **Yapay Zeka & Veri Bilimi:** Doğal Dil İşleme (NLP), Bilgisayarlı Görü (Image Captioning) ve Derin Öğrenme (Deep Learning) alanlarında yüksek doğruluklu modeller tasarlıyor, eğitiyor ve optimize ediyorum.
+- ⚙️ **Akıllı Sistem Entegrasyonları:** Geliştirdiğim AI modellerini üretim ortamına (production) taşımak için yüksek performanslı asenkron API'ler (FastAPI), sağlam veri hatları (data pipelines) ve C/C++ ile düşük seviyeli otonom yapılar kuruyorum.
+- 🚀 **Güncel Odak Noktam:** Büyük Dil Modelleri (LLM), semantik vektör aramaları, modern veri madenciliği ve geleceğin otonom sistemlerini tasarlamak.
 ---
 
 ### 🛠️ Teknoloji Yığınım (Tech Stack)
